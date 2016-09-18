@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://in.brokenin.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
